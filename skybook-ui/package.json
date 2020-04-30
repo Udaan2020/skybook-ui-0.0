@@ -31,7 +31,7 @@
     "datatables.net-buttons-bs4": "^1.6.1",
     "datatables.net-dt": "^1.10.20",
     "hammerjs": "^2.0.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-loading": "^8.0.0",
     "rxjs": "~6.4.0",
     "save": "^2.4.0",
